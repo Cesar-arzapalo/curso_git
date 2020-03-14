@@ -9,6 +9,10 @@ Un blog increible para el [curso de Git y Github](https://drive.google.com/drive
 * El flujo de trabajo en GIthub
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
+<<<<<<< HEAD
 * Creado por platzi team
 * Incluye ejemplos de windows, linux y max
 * Disponible para todas las edades
+=======
+* Creado por platzi team
+>>>>>>> f891603... creditos al team-platzi
