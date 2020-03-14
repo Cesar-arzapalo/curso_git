@@ -11,3 +11,4 @@ Un blog increible para el [curso de Git y Github](https://drive.google.com/drive
 * Trucos muy locos del profesor
 * Creado por platzi team
 * Incluye ejemplos de windows, linux y max
+* Disponible para todas las edades
